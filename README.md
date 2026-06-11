@@ -20,6 +20,7 @@ Upload any CSV. The system analyzes data quality, runs dual-method anomaly detec
 ---
 
 ## Live Demo
+https://huggingface.co/spaces/Faraz618/data-quality-pipeline
 
 [![Open in HuggingFace Spaces](https://img.shields.io/badge/🤗%20Open%20in-Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/data-quality-pipeline)
 
